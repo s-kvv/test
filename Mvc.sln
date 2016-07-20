@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageFeatures", "LanguageFeatures\LanguageFeatures.csproj", "{999938B0-B5D8-4244-A91D-96F3E7084CA3}"
 EndProject
@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Info", "Info", "{8906AF18-9
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorTest", "RazorTest\RazorTest.csproj", "{118F01CB-941D-4491-8BDC-92137C14C70F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTools", "EssentialTools\EssentialTools.csproj", "{B495B0D8-4676-4889-A32C-53E30AC1DC5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +34,10 @@ Global
 		{118F01CB-941D-4491-8BDC-92137C14C70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{118F01CB-941D-4491-8BDC-92137C14C70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{118F01CB-941D-4491-8BDC-92137C14C70F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B495B0D8-4676-4889-A32C-53E30AC1DC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B495B0D8-4676-4889-A32C-53E30AC1DC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B495B0D8-4676-4889-A32C-53E30AC1DC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B495B0D8-4676-4889-A32C-53E30AC1DC5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
