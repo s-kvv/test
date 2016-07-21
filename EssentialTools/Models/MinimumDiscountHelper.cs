@@ -5,7 +5,14 @@ namespace EssentialTools.Models
     {
         public decimal ApplyDiscount(decimal totalParam)
         {
-            throw new NotImplementedException();
+            if (totalParam > 100m)
+                return totalParam * 0.9M;
+            else if (totalParam >= 10m)
+                return totalParam - 5m;
+            else if (totalParam >= 0m)
+                return totalParam;
+
+            throw new ArgumentOutOfRangeException();
         }
     }
 }
