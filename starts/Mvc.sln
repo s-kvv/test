@@ -1,16 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageFeatures", "LanguageFeatures\LanguageFeatures.csproj", "{999938B0-B5D8-4244-A91D-96F3E7084CA3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyInvites", "PartyInvites\PartyInvites.csproj", "{B038CD3E-C033-44C5-A8BB-361299377B49}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Info", "Info", "{8906AF18-9756-4A6D-8743-17AB48C2EFEA}"
-	ProjectSection(SolutionItems) = preProject
-		page.txt = page.txt
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorTest", "RazorTest\RazorTest.csproj", "{118F01CB-941D-4491-8BDC-92137C14C70F}"
 EndProject
